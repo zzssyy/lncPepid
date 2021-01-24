@@ -1,5 +1,4 @@
 # LspIF
-An bioinformatics tool for identifying lncRNA-encoded short peptides
 
 FS-WI is a packedge to run the FS-WI feature selection method. You can change the parameter rf, wf, and path of efs.py to get the selected features by using the FS-WI feature selection method.
 
