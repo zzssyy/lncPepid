@@ -4,3 +4,5 @@ FS-WI is a packedge to run the FS-WI feature selection method. You can change th
 
 LspIF.py is the model to identify lncRNA-encoded short peptides. You can use the following command to run the python file.
 python LspIF.py test.fa pos_smaples neg_samples
+
+![image](https://github.com/zzssyy/LspIF/blob/master/LspIF.jpg)
