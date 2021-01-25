@@ -216,8 +216,8 @@ def run(rf, m, wf, path):
 
 
 if __name__ == '__main__':
-    rf = "G:\赵思远\miRNA-encoded peptides\ILPEFS\特征\seq.csv"
-    wf = "G:\py-workspace\\test\M3V\dna"
-    path = 'G:\py-workspace\\test\M3V'
+    rf = ".csv" #input file
+    wf = "" #output file
+    path = '' #output path
     m = 15
     run(rf, m, wf, path)
