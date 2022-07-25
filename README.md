@@ -7,4 +7,4 @@ python lncPepid.py test.fa pos_smaples neg_samples
 
 # Graphical abstract
 
-![image](https://github.com/zzssyy/lncPepid/blob/master/Graphical-abstract.jpg)
+![image](https://github.com/zzssyy/lncPepid/blob/main/Graphical-abstract.png)
